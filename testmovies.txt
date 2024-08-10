@@ -1,0 +1,7 @@
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman 8 1942
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart 8 1942
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland 7 1939
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+D, 10, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Gus Van Sant, Good Will Hunting, 2000
+F, 10, Woody Allen, Annie Hall, 1977
